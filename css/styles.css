@@ -90,7 +90,7 @@ a {
 .whats-btn {
   position: fixed;
   z-index: 101;
-  top: 80px;
+  top: 140px;
   right: 20px;
   font-size: 35px;
   animation: whats 1.4s infinite;
@@ -810,7 +810,6 @@ a {
 
 .mapa {
   border-radius: 0 50px 0 50px;
-  background-color: red;
   overflow: hidden;
   width: 50%;
   height: 60vh;
