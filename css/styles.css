@@ -90,7 +90,7 @@ a {
 .whats-btn {
   position: fixed;
   z-index: 101;
-  top: 140px;
+  bottom: 140px;
   right: 20px;
   font-size: 35px;
   animation: whats 1.4s infinite;
